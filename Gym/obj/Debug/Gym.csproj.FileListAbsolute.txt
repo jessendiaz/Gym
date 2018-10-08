@@ -1,0 +1,28 @@
+c:\users\equipo\documents\visual studio 2015\Projects\Gym\Gym\bin\Debug\Gym.exe.config
+c:\users\equipo\documents\visual studio 2015\Projects\Gym\Gym\bin\Debug\Gym.exe
+c:\users\equipo\documents\visual studio 2015\Projects\Gym\Gym\bin\Debug\Gym.pdb
+c:\users\equipo\documents\visual studio 2015\Projects\Gym\Gym\obj\Debug\Gym.csprojResolveAssemblyReference.cache
+c:\users\equipo\documents\visual studio 2015\Projects\Gym\Gym\obj\Debug\Gym.Properties.Resources.resources
+c:\users\equipo\documents\visual studio 2015\Projects\Gym\Gym\obj\Debug\Gym.csproj.GenerateResource.Cache
+c:\users\equipo\documents\visual studio 2015\Projects\Gym\Gym\obj\Debug\Gym.exe
+c:\users\equipo\documents\visual studio 2015\Projects\Gym\Gym\obj\Debug\Gym.pdb
+C:\Users\equipo\Documents\Visual Studio 2015\Projects\Gym\Gym\bin\Debug\MySql.Data.dll
+C:\Users\equipo\Documents\Visual Studio 2015\Projects\Gym\Gym\bin\Debug\Google.Protobuf.dll
+C:\Users\equipo\Documents\Visual Studio 2015\Projects\Gym\Gym\bin\Debug\MySql.Data.xml
+C:\Users\equipo\Documents\Visual Studio 2015\Projects\Gym\Gym\obj\Debug\Gym.frmLogin.resources
+C:\Users\equipo\Documents\Visual Studio 2015\Projects\Gym\Gym\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\equipo\Documents\Visual Studio 2015\Projects\Gym\Gym\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\proyectos\Gym\Gym\bin\Debug\Gym.exe.config
+C:\proyectos\Gym\Gym\obj\Debug\Gym.exe
+C:\proyectos\Gym\Gym\obj\Debug\Gym.pdb
+C:\proyectos\Gym\Gym\bin\Debug\Gym.exe
+C:\proyectos\Gym\Gym\bin\Debug\Gym.pdb
+C:\proyectos\Gym\Gym\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\proyectos\Gym\Gym\bin\Debug\MySql.Data.dll
+C:\proyectos\Gym\Gym\bin\Debug\Google.Protobuf.dll
+C:\proyectos\Gym\Gym\bin\Debug\MySql.Data.xml
+C:\proyectos\Gym\Gym\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\proyectos\Gym\Gym\obj\Debug\Gym.csprojResolveAssemblyReference.cache
+C:\proyectos\Gym\Gym\obj\Debug\Gym.frmLogin.resources
+C:\proyectos\Gym\Gym\obj\Debug\Gym.Properties.Resources.resources
+C:\proyectos\Gym\Gym\obj\Debug\Gym.csproj.GenerateResource.Cache
