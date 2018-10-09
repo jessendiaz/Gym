@@ -8,7 +8,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using MySql.Data;
-using MySql.Data.MySqlClient;
 using System.Runtime.InteropServices;
 
 
@@ -18,10 +17,10 @@ namespace Gym
     public partial class frmLogin : Form
     {
         public int xClick = 0, yClick = 0;
-        MySqlCommand Query = new MySqlCommand();
-        MySqlConnection Conexion;
-        MySqlDataReader consultar;
-        public string sql = ";server=localhost;user id=root;database=bdgym;password=121986";
+        //MySqlCommand Query = new MySqlCommand();
+        //MySqlConnection Conexion;
+        //MySqlDataReader consultar;
+       
         public frmLogin()
         {
             InitializeComponent();
@@ -29,45 +28,32 @@ namespace Gym
 
         private void btnAceptar_Click(object sender, EventArgs e)
         {
-            try
-            {
-                //Conexion = new MySqlConnection();
-                //Conexion.ConnectionString = sql;
-                //Conexion.Open();
-                //MessageBox.Show("Conectado con éxito");
-                //Conexion.Close();
-                get_cliente();
-            }
-            catch (MySqlException ex)
-            {
-                MessageBox.Show(ex.Message);
-            }
+            //try
+            //{
+            //    //Conexion = new MySqlConnection();
+            //    //Conexion.ConnectionString = sql;
+            //    //Conexion.Open();
+            //    //MessageBox.Show("Conectado con éxito");
+            //    //Conexion.Close();
+            //    get_cliente();
+            //}
+            //catch (MySqlException ex)
+            //{
+            //    MessageBox.Show(ex.Message);
+            //}
         }
 
-        public void get_cliente()
-        {
-            try
-            {
-                Conexion = new MySqlConnection();
-                Conexion.ConnectionString = sql;
-                Conexion.Open();
-                Query.CommandText = "SELECT idCliente, nombre, rutCliente FROM cliente LIMIT 1";
-                Query.Connection = Conexion;
-                consultar = Query.ExecuteReader();
-                while (consultar.Read())
-                {
-                    int id = consultar.GetInt32(0);
-                    string nombre = consultar.GetString(1);
-                    string telefono = consultar.GetString(2);
-                    MessageBox.Show("Cliente:\n" + id + " " + nombre + " " + telefono);
-                }
-                Conexion.Close();
-            }
-            catch (MySqlException e)
-            {
-                MessageBox.Show(e.Message);
-            }
-        }
+        //public void get_cliente()
+        //{
+        //    try
+        //    {
+                
+        //    }
+        //    catch (MySqlException e)
+        //    {
+        //        MessageBox.Show(e.Message);
+        //    }
+        //}
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {

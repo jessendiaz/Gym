@@ -1,0 +1,4 @@
+C:\proyectos\Gym\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\proyectos\Gym\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\proyectos\Gym\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\proyectos\Gym\CapaNegocio\obj\Debug\CapaNegocio.pdb

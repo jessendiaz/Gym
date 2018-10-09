@@ -1,0 +1,14 @@
+C:\proyectos\Gym\Gym\bin\Debug\Gym.exe.config
+C:\proyectos\Gym\Gym\bin\Debug\Gym.exe
+C:\proyectos\Gym\Gym\bin\Debug\Gym.pdb
+C:\proyectos\Gym\Gym\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\proyectos\Gym\Gym\bin\Debug\MySql.Data.dll
+C:\proyectos\Gym\Gym\bin\Debug\Google.Protobuf.dll
+C:\proyectos\Gym\Gym\bin\Debug\MySql.Data.xml
+C:\proyectos\Gym\Gym\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\proyectos\Gym\Gym\obj\Debug\CapaPresetacion.csprojResolveAssemblyReference.cache
+C:\proyectos\Gym\Gym\obj\Debug\Gym.frmLogin.resources
+C:\proyectos\Gym\Gym\obj\Debug\Gym.Properties.Resources.resources
+C:\proyectos\Gym\Gym\obj\Debug\CapaPresetacion.csproj.GenerateResource.Cache
+C:\proyectos\Gym\Gym\obj\Debug\Gym.exe
+C:\proyectos\Gym\Gym\obj\Debug\Gym.pdb

@@ -1,0 +1,8 @@
+C:\proyectos\Gym\CapaDatos\bin\Debug\CapaDatos.dll
+C:\proyectos\Gym\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\proyectos\Gym\CapaDatos\bin\Debug\MySql.Data.dll
+C:\proyectos\Gym\CapaDatos\bin\Debug\Google.Protobuf.dll
+C:\proyectos\Gym\CapaDatos\bin\Debug\MySql.Data.xml
+C:\proyectos\Gym\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\proyectos\Gym\CapaDatos\obj\Debug\CapaDatos.dll
+C:\proyectos\Gym\CapaDatos\obj\Debug\CapaDatos.pdb
